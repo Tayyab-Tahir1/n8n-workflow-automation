@@ -1,0 +1,29 @@
+# n8n AI Workflow Automation
+
+> A curated, import-ready library of 130+ AI automation workflows for n8n, built and maintained by Tayyab Tahir. Focused exclusively on AI: AI agents, LLM integrations (OpenAI, Claude, Gemini, Ollama, DeepSeek, Mistral), retrieval-augmented generation (RAG), vector databases, and AI-driven research and data analysis. Each workflow is a JSON file you can import directly into n8n.
+
+## What is this repository?
+
+n8n AI Workflow Automation is an open-source collection of n8n workflow templates focused entirely on artificial intelligence use cases. n8n is an open-source workflow automation platform (similar to Zapier and Make) that can be self-hosted. Every template here is a JSON file that imports directly into n8n to create a working AI automation.
+
+## Workflow Categories
+
+- [AI Agents & LLMs](https://github.com/Tayyab-Tahir1/n8n-workflow-automation/tree/main/OpenAI_and_LLMs): 89 workflows for AI agents and assistants, chatbots with memory, LLM-driven content/text-to-speech/image generation, data extraction, lead and support automation, and local LLM setups with Ollama. Covers OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Mistral, and LangChain.
+- [AI Research, RAG & Data Analysis](https://github.com/Tayyab-Tahir1/n8n-workflow-automation/tree/main/AI_Research_RAG_and_Data_Analysis): 43 workflows for retrieval-augmented generation (RAG) chatbots, vector databases (Qdrant, Pinecone, Elasticsearch), autonomous research and web-scraping agents, document assistants, sentiment analysis, SEO tooling, and AI-driven analytics.
+
+## How to Use
+
+1. Browse the categories above or the full README
+2. Download the JSON file for the workflow you want
+3. In n8n, go to Workflows > Import from File and select the JSON
+4. Configure your credentials for each connected service
+5. Activate the workflow
+
+## Documentation
+
+- [Full Workflow Catalog (README)](https://github.com/Tayyab-Tahir1/n8n-workflow-automation/blob/main/README.md)
+- [Contributing Guide](https://github.com/Tayyab-Tahir1/n8n-workflow-automation/blob/main/CONTRIBUTING.md)
+
+## Optional
+
+- [Citation Information](https://github.com/Tayyab-Tahir1/n8n-workflow-automation/blob/main/CITATION.cff)

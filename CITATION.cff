@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you find this library useful, please cite it as below."
+title: "n8n AI Workflow Automation"
+abstract: "A curated, import-ready library of 130+ AI automation workflows for n8n, covering AI agents, LLM integrations (OpenAI, Claude, Gemini, Ollama, DeepSeek), retrieval-augmented generation (RAG), vector databases, and AI-driven research and data analysis."
+type: dataset
+authors:
+  - family-names: Tahir
+    given-names: Tayyab
+    alias: Tayyab-Tahir1
+repository-code: "https://github.com/Tayyab-Tahir1/n8n-workflow-automation"
+keywords:
+  - n8n
+  - ai-automation
+  - ai-agents
+  - llm
+  - rag
+  - openai
+  - claude
+  - gemini
+  - ollama
+  - langchain
+  - vector-database
+  - self-hosted
+license: CC-BY-4.0
+date-released: "2026-01-01"
